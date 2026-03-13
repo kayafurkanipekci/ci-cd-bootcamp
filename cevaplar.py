@@ -20,24 +20,24 @@ cevaplar = {
     "vaka3": "cesaret",
 
     # 🌀 Portal 4 — Gizli Portal (Okan)
-    "vaka4": "",
+    "vaka4": "evren",
 
     # 🌀 Portal 5 — Koordinat Haritası (Nigina)
-    "vaka5": "",
+    "vaka5": "rota",
 
     # 🌀 Portal 6 — İrem'in Şifre Kasası (İrem)
-    "vaka6": "",
+    "vaka6": "anahtar",
 
     # 🌀 Portal 7 — Şiirin Portalı (Kaya)
-    "vaka7": "",
+    "vaka7": "labirent",
 
     # 🌀 Portal 8 — Mors Sinyalleri (Serhat)
-    "vaka8": "",
+    "vaka8": "arayıs",
 
     # 🌀 Portal 9 — Mantık Kapısı (Core Crew)
-    "vaka9": "",
+    "vaka9": "rehber",
 
     # 🌀 Portal 10 — Son Portal (Core Crew)
-    "vaka10": "",
+    "vaka10": "maceralar",
 
 }
